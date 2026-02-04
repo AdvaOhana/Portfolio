@@ -58,11 +58,11 @@ const App = () => {
   const projects = [
     {
       title: "sBin - Smart Waste Management",
-      description: "Smart Bin is an intelligent waste management system with sensors and cloud analytics that monitors fill levels, sorts waste, and alerts when bins need emptying. It reduces collection trips, cuts fuel use, prevents overflow hazards, and provides a scalable, data-driven solution for cleaner cities.",
+      description: "Smart Bin is an intelligent waste management system with sensors and cloud analytics that monitors fill levels, sorts waste, and alerts when bins need emptying.",
       tags: ["Node.js", "Express.js", "React", "Docker", "MQTT", "Gemini AI", "OCI", "Leaflet", "shadcn-ui", "Mongoose"],
       image: "https://placehold.co/600x400/2563eb/ffffff?text=sBin+System",
       github: "https://github.com/Atshmuel/s-bin",
-      live: "https://s-bins.duckdns.org"
+      live: "https://s-bins.duckdns.org/login?email=GuestAdmin@sbin.com"
     },
     {
       title: "CRM - Customer Management System",
