@@ -58,15 +58,15 @@ const App = () => {
   const projects = [
     {
       title: "sBin - Smart Waste Management",
-      description: "A Full Stack IoT platform integrating Leaflet maps, processing real-time telemetry via MQTT, and deployed on Oracle Cloud (OCI) using Docker and Nginx.",
+      description: "Smart Bin is an intelligent waste management system with sensors and cloud analytics that monitors fill levels, sorts waste, and alerts when bins need emptying. It reduces collection trips, cuts fuel use, prevents overflow hazards, and provides a scalable, data-driven solution for cleaner cities.",
       tags: ["Node.js", "Express.js", "React", "Docker", "MQTT", "Gemini AI", "OCI", "Leaflet", "shadcn-ui", "Mongoose"],
       image: "https://placehold.co/600x400/2563eb/ffffff?text=sBin+System",
       github: "https://github.com/Atshmuel/s-bin",
-      live: "#"
+      live: "https://s-bins.duckdns.org"
     },
     {
       title: "CRM - Customer Management System",
-      description: "Architected a scalable backend for processing environmental data with automated background jobs and real-time alerting.",
+      description: "A web-based CRM application for managing customers. The system allows adding, editing, and deleting clients, viewing client details, and managing communication efficiently.",
       tags: ["Express.js", "JWT", "RBAC", "Cloud Infrastructure"],
       image: "https://placehold.co/600x400/059669/ffffff?text=CRM+System",
       github: "https://github.com/AdvaOhana/CRM",
