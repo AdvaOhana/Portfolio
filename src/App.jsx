@@ -70,7 +70,7 @@ const App = () => {
       tags: ["Express.js", "JWT", "RBAC", "Cloud Infrastructure"],
       image: "https://placehold.co/600x400/059669/ffffff?text=CRM+System",
       github: "https://github.com/AdvaOhana/CRM",
-      live: "#"
+      live: "https://crm-adva.duckdns.org"
     }
   ];
 
