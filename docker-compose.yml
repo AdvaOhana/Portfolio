@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  app:
+    image: adva1/devops-cd-demo:${IMAGE_TAG}
+    container_name: devops-cd-demo
+    restart: unless-stopped
+    ports:
+      - "8080:80"
